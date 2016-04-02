@@ -2,14 +2,12 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+An IBM Cloud Advisor who literally lives on the cloud. Thoughts and opinions are all mine and have nothing to do with my employer. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ramy.kamel@gmail.com](mailto:ramy.kamel@gmail.com)
