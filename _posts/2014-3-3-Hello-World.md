@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "You're up and running!"
+title: "Hello, Cloud!"
 published: true
 ---
+
 
 **Hello brave souls of the cloud.**
